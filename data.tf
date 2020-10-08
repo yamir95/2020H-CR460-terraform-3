@@ -1,6 +1,6 @@
-data "google_compute_network" "default-network" {
+data "google_compute_network" "devoir1" {
   name = "default"
-  project = data.google_project.default-project.project_id
+  
 }
 
 data "google_project" "default-project" {

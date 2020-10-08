@@ -1,6 +1,6 @@
 variable "project_id" {
   type = string
-  default = "zonedetest"
+  default = "infinite-cache-290423"
 }
 
 variable "zone"{
